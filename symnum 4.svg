@@ -5,6 +5,6 @@
    xmlns:svg="http://www.w3.org/2000/svg"
    id="api well symbol 4 - Oil Well">
    <g opacity="1.0">
-      <circle style="fill:chartreuse; stroke:chartreuse; stroke-width:2; stroke-opacity:1" cx="50" cy="50" r="15"/>
+      <circle style="fill:chartreuse; stroke:chartreuse; stroke-width:2; stroke-opacity:1" cx="50" cy="50" r="10"/>
    </g>
 </svg>
