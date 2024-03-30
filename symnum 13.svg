@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="100px" height="100px" viewBox="0 0 100 100"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   id="api well symbol 13 - Directional Surface Well Location">
+   <g opacity="1.0">
+      <polyline style="stroke:black; fill:white; stroke-width:1; stroke-opacity:1" points="35,50 50,35 65,50 50,65 35,50" />
+   </g>
+</svg>

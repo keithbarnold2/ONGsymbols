@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="100px" height="100px" viewBox="0 0 100 100"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   id="api well symbol 16 - Sulfur Core Test">
+   <g opacity="1.0">
+      <circle style="fill:white; stroke:black; stroke-width:2; stroke-opacity:1" cx="50" cy="50" r="15"/>
+
+      <polyline style="fill:none; stroke:black; stroke-width:2; stroke-opacity:1" points="60.6,39.4 71,29 75,33 71,37" />
+      <polyline style="fill:none; stroke:black; stroke-width:2; stroke-opacity:1" points="29,63 25,67, 29,71 39.4,60.6" />
+   </g>
+</svg>
