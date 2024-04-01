@@ -5,7 +5,7 @@
    xmlns:svg="http://www.w3.org/2000/svg"
    id="api well symbol 17 - Storage for Oil">
    <g opacity="1.0">
-      <circle style="fill:transparent; stroke:black; stroke-width:2; stroke-opacity:1" cx="15" cy="15" r="14"/>
-      <circle style="fill:chartreuse; stroke:black; stroke-width:1; stroke-opacity:1" cx="15" cy="15" r="7"/>
+      <circle style="fill:chartreuse; stroke:black; stroke-width:2; stroke-opacity:1" cx="15" cy="15" r="7"/>
+      <circle style="fill:transparent; stroke:black; stroke-width:3; stroke-opacity:1" cx="15" cy="15" r="13"/>
    </g>
 </svg>
