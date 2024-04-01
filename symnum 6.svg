@@ -1,89 +1,18 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   width="100px"
-   height="100px"
-   viewBox="0 0 100 100"
+   width="100px" height="100px" viewBox="0 0 50 50"
    id="api well symbol 6 - Oil/Gas Well"
-   version="1.1"
-   sodipodi:docname="symnum 6.svg"
-   inkscape:export-filename="symnum 6.png"
-   inkscape:export-xdpi="96"
-   inkscape:export-ydpi="96"
-   inkscape:version="1.3.2 (091e20e, 2023-11-25)"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
-  <defs
-     id="defs6" />
-  <sodipodi:namedview
-     id="namedview6"
-     pagecolor="#ffffff"
-     bordercolor="#000000"
-     borderopacity="0.25"
-     inkscape:showpageshadow="2"
-     inkscape:pageopacity="0.0"
-     inkscape:pagecheckerboard="0"
-     inkscape:deskcolor="#d1d1d1"
-     inkscape:zoom="7.6"
-     inkscape:cx="50"
-     inkscape:cy="49.934211"
-     inkscape:window-width="1392"
-     inkscape:window-height="1212"
-     inkscape:window-x="0"
-     inkscape:window-y="25"
-     inkscape:window-maximized="0"
-     inkscape:current-layer="api well symbol 6 - Oil/Gas Well" />
-  <g
-     opacity="1.0"
-     id="g6">
-    <circle
-       style="fill:chartreuse; stroke:magenta; stroke-width:2; stroke-opacity:1"
-       cx="50"
-       cy="50"
-       r="15"
-       id="circle1" />
-    <line
-       style="stroke:magenta;stroke-width:2;stroke-opacity:1"
-       x1="50"
-       y1="65"
-       x2="50"
-       y2="70"
-       id="line1" />
-    <line
-       style="stroke:magenta;stroke-width:2;stroke-opacity:1"
-       x1="50"
-       y1="35"
-       x2="50"
-       y2="30"
-       id="line2" />
-    <line
-       style="stroke:magenta;stroke-width:2;stroke-opacity:1"
-       x1="63"
-       y1="57.5"
-       x2="67.3"
-       y2="60"
-       id="line3" />
-    <line
-       style="stroke:magenta;stroke-width:2;stroke-opacity:1"
-       x1="63"
-       y1="42.5"
-       x2="67.3"
-       y2="40"
-       id="line4" />
-    <line
-       style="stroke:magenta;stroke-width:2;stroke-opacity:1"
-       x1="37"
-       y1="57.5"
-       x2="32.7"
-       y2="60"
-       id="line5" />
-    <line
-       style="stroke:magenta;stroke-width:2;stroke-opacity:1"
-       x1="37"
-       y1="42.5"
-       x2="32.7"
-       y2="40"
-       id="line6" />
+  <g opacity="1.0" >
+    <circle style="fill:chartreuse; stroke:magenta; stroke-width:2; stroke-opacity:1" cx="25" cy="25" r="15" />
+     
+      <line id="S" style="stroke:magenta;stroke-width:2;stroke-opacity:1" x1="25" y1="40" x2="25" y2="50" /> 
+      <line id="N" style="stroke:magenta;stroke-width:2;stroke-opacity:1" x1="25" y1="10" x2="25" y2="0" />
+
+      <line id="SE" style="stroke:magenta;stroke-width:2;stroke-opacity:1" x1="38" y1="32.5" x2="46.6" y2="40" />
+      <line id="NE" style="stroke:magenta;stroke-width:2;stroke-opacity:1" x1="38" y1="17.5" x2="46.6" y2="10" />
+
+      <line id="SW" style="stroke:magenta;stroke-width:2;stroke-opacity:1" x1="12" y1="32.5" x2="3.4" y2="40" />
+      <line id="SE" style="stroke:magenta;stroke-width:2;stroke-opacity:1" x1="12" y1="17.5" x2="3.4" y2="10" />
   </g>
 </svg>
