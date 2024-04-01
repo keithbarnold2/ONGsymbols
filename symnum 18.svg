@@ -5,7 +5,6 @@
    xmlns:svg="http://www.w3.org/2000/svg"
    id="api well symbol 18 - Storage for Gas">
    <g opacity="1.0">
-      <circle style="fill:white; stroke:black; stroke-width:2; stroke-opacity:1" cx="25" cy="25" r="24"/>
       <circle style="fill:white; stroke:red; stroke-width:2; stroke-opacity:1" cx="25" cy="25" r="15"/>
 
       <line id="S" style="stroke:red;stroke-width:2;stroke-opacity:1" x1="25" y1="40" x2="25" y2="49" /> 
@@ -16,6 +15,8 @@
 
       <line id="SW" style="stroke:red;stroke-width:2;stroke-opacity:1" x1="12" y1="32.5" x2="4" y2="37" />
       <line id="NW" style="stroke:red;stroke-width:2;stroke-opacity:1" x1="12" y1="17.5" x2="4" y2="13" />
+
+      <circle style="fill:transparent; stroke:black; stroke-width:3; stroke-opacity:1" cx="25" cy="25" r="24"/>
 
    </g>
 </svg>
