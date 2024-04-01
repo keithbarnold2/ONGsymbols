@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   width="100px" height="100px" viewBox="0 0 100 100"
+   width="100px" height="100px" viewBox="0 0 50 50"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg"
    id="api well symbol 15 - Radioactive Well">
    <g opacity="1.0">
-      <polyline style="stroke:red; fill:white; stroke-width:1; stroke-opacity:1" points="50,35 65,65 35,65 50,35" />
+      <polyline style="stroke:red; fill:transparent; stroke-width:3; stroke-opacity:1" points="25,10 40,40 10,40 25,10" />
    </g>
 </svg>
