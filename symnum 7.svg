@@ -6,6 +6,6 @@
    id="api well symbol 7 - Plugged Oil Well">
    <g opacity="1.0">
       <circle style="fill:chartreuse; stroke:black; stroke-width:2; stroke-opacity:1" cx="25" cy="25" r="15"/>
-      <line style="stroke:black; stroke-width:4; stroke-opacity:1" x1="3.8" y1="3.8" x2="46.2" y2="46.2"/>
+      <line id="45 slash" style="stroke:black; stroke-width:4; stroke-opacity:1" x1="7" y1="7" x2="43" y2="43"/>
    </g>
 </svg>
