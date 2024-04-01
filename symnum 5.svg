@@ -10,10 +10,10 @@
       <line id="S" style="stroke:red;stroke-width:2;stroke-opacity:1" x1="25" y1="40" x2="25" y2="50" /> 
       <line id="N" style="stroke:red;stroke-width:2;stroke-opacity:1" x1="25" y1="10" x2="25" y2="0" />
 
-      <line id="SE" style="stroke:red;stroke-width:2;stroke-opacity:1" x1="38" y1="32.5" x2="46.6" y2="40" />
-      <line id="NE" style="stroke:red;stroke-width:2;stroke-opacity:1" x1="38" y1="17.5" x2="46.6" y2="10" />
+      <line id="SE" style="stroke:red;stroke-width:2;stroke-opacity:1" x1="38" y1="32.5" x2="46" y2="37" />
+      <line id="NE" style="stroke:red;stroke-width:2;stroke-opacity:1" x1="38" y1="17.5" x2="46" y2="13" />
 
-      <line id="SW" style="stroke:red;stroke-width:2;stroke-opacity:1" x1="12" y1="32.5" x2="3.4" y2="40" />
-      <line id="SE" style="stroke:red;stroke-width:2;stroke-opacity:1" x1="12" y1="17.5" x2="3.4" y2="10" />
+      <line id="SW" style="stroke:red;stroke-width:2;stroke-opacity:1" x1="12" y1="32.5" x2="4" y2="37" />
+      <line id="NW" style="stroke:red;stroke-width:2;stroke-opacity:1" x1="12" y1="17.5" x2="4" y2="13" />
    </g>
 </svg>
