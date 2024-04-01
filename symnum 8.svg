@@ -16,6 +16,6 @@
       <line id="SW" style="stroke:red;stroke-width:2;stroke-opacity:1" x1="12" y1="32.5" x2="4" y2="37" />
       <line id="NW" style="stroke:red;stroke-width:2;stroke-opacity:1" x1="12" y1="17.5" x2="4" y2="13" />
 
-      <line id="45 slash" style="stroke:black; stroke-width:4; stroke-opacity:1" x1="7" y1="7" x2="43" y2="43"/>
+      <line id="45 slash" style="stroke:black; stroke-width:5; stroke-opacity:1" x1="7" y1="7" x2="43" y2="43"/>
    </g>
 </svg>
