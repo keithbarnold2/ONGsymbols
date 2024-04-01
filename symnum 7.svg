@@ -5,7 +5,7 @@
    xmlns:svg="http://www.w3.org/2000/svg"
    id="api well symbol 7 - Plugged Oil Well">
    <g opacity="1.0">
-      <circle style="fill:chartreuse; stroke:black; stroke-width:2; stroke-opacity:1" cx="25" cy="25" r="15"/>
+      <circle style="fill:chartreuse; stroke:#66cc00; stroke-width:2; stroke-opacity:1" cx="25" cy="25" r="15"/>
       <line id="45 slash" style="stroke:black; stroke-width:4; stroke-opacity:1" x1="7" y1="7" x2="43" y2="43"/>
    </g>
 </svg>
